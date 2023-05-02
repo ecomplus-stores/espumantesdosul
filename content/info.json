@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil",
+    "text": "Para todo o Brasil",
     "title": "Frete"
   },
   "installments": {
@@ -15,6 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "À vista no PIX",
+    "title": "10% OFF"
   }
 }
