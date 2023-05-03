@@ -4,12 +4,12 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 1000,
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
+          "start": "2023-05-01T03:00:00.000Z",
+          "end": "2023-07-08T03:00:00.000Z",
           "img": "/img/uploads/banner-outlet-1.png"
         }
       ]
@@ -30,8 +30,8 @@
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Enovita - Vinhos que inspiram",
+      "description": "Vinhos que inspiram"
     }
   ]
 }
