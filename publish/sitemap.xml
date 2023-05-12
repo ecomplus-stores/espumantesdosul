@@ -1490,6 +1490,18 @@
     </url>
   
     <url>
+      <loc>https://espumantesdosul.netlify.app/vinho-tinto-seco-cabernet-franc-dal-pizzol-750ml</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vinho-tinto-seco-cabernet-sauvignon-fausto-de-pizzato-750ml</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://espumantesdosul.netlify.app/vinhos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
