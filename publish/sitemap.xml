@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://espumantesdosul.netlify.app/vinhos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://espumantesdosul.netlify.app/tintos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://espumantesdosul.netlify.app/vinho-tinto-seco-vicenzo-casacorba-750ml</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1781,6 +1769,30 @@
       <loc>https://espumantesdosul.netlify.app/vistamar-reserva-chardonnay</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/mastrojanni-rosso-di-montalcino-doc</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/bellavista-alma-teatro-alla-scala-franciacorta-brut</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vinhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/tintos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
