@@ -1526,6 +1526,90 @@
     </url>
   
     <url>
+      <loc>https://espumantesdosul.netlify.app/vistamar-single-estate-cabernet-sauvignon</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistalba-tomero-chardonnay</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistamar-gran-reserva-cabernet-sauvignon/syrah</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistalba-tomero-single-vineyard-malbec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistalba-corte-b</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistalba-corte-c</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistamar-reserva-sauvignon-blanc</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistamar-brisa-cabernet-sauvignon</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistalba-tomero-pinot-noir-ros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/g.d.-vajra-barolo-docg-albe</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/yali-wild-swan-cabernet-sauvignon</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/bellavista-franciacorta-brut-rose</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/yali-wild-swan-sauvignon-blanc</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://espumantesdosul.netlify.app/vistamar-brisa-carmnre</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://espumantesdosul.netlify.app/vinhos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
